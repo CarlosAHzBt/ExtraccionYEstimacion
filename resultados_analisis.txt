@@ -1,0 +1,480 @@
+Archivo: frame_00031.ply
+Superficie estimada: -0.8948 unidades
+Profundidad del agujero desde la superficie fija: -0.0570 unidades
+Posición del punto más profundo: [-0.00589792  0.171766   -0.95186095]
+
+Archivo: frame_00033.ply
+Superficie estimada: -0.8957 unidades
+Profundidad del agujero desde la superficie fija: -0.0596 unidades
+Posición del punto más profundo: [-0.00640387  0.17257312 -0.95523862]
+
+Archivo: frame_00159.ply
+Superficie estimada: -0.9419 unidades
+Profundidad del agujero desde la superficie fija: -0.0558 unidades
+Posición del punto más profundo: [-0.08572355  0.24585608 -0.99767324]
+
+Archivo: frame_00160.ply
+Superficie estimada: -0.9002 unidades
+Profundidad del agujero desde la superficie fija: -0.1365 unidades
+Posición del punto más profundo: [ 0.00468083 -0.1975678  -1.03670745]
+
+Archivo: frame_00161.ply
+Superficie estimada: -0.8999 unidades
+Profundidad del agujero desde la superficie fija: -0.0456 unidades
+Posición del punto más profundo: [-0.14625746  0.25125674 -0.94549892]
+
+Archivo: frame_00162.ply
+Superficie estimada: -0.8995 unidades
+Profundidad del agujero desde la superficie fija: -0.0460 unidades
+Posición del punto más profundo: [-0.14840827  0.24874389 -0.94550072]
+
+Archivo: frame_00164.ply
+Superficie estimada: -0.9229 unidades
+Profundidad del agujero desde la superficie fija: -0.0460 unidades
+Posición del punto más profundo: [-0.12013072  0.32146516 -0.9689497 ]
+
+Archivo: frame_00198.ply
+Superficie estimada: -0.8986 unidades
+Profundidad del agujero desde la superficie fija: -0.0454 unidades
+Posición del punto más profundo: [-0.10707924  0.33301936 -0.94402336]
+
+Archivo: frame_00202.ply
+Superficie estimada: -0.8987 unidades
+Profundidad del agujero desde la superficie fija: -0.0450 unidades
+Posición del punto más profundo: [ 0.05025251  0.35343704 -0.94369826]
+
+Archivo: frame_00203.ply
+Superficie estimada: -0.9095 unidades
+Profundidad del agujero desde la superficie fija: -0.9976 unidades
+Posición del punto más profundo: [-0.50369802 -0.6483651  -1.9070103 ]
+
+Archivo: frame_00204.ply
+Superficie estimada: -0.8953 unidades
+Profundidad del agujero desde la superficie fija: -0.1672 unidades
+Posición del punto más profundo: [-0.29053989 -0.20792082 -1.06247532]
+
+Archivo: frame_00211.ply
+Superficie estimada: -0.8953 unidades
+Profundidad del agujero desde la superficie fija: -0.0533 unidades
+Posición del punto más profundo: [ 0.07550897  0.28804854 -0.94856811]
+
+Archivo: frame_00213.ply
+Superficie estimada: -0.8952 unidades
+Profundidad del agujero desde la superficie fija: -0.0506 unidades
+Posición del punto más profundo: [ 0.06499524  0.27807646 -0.94577958]
+
+Archivo: frame_00215.ply
+Superficie estimada: -0.9239 unidades
+Profundidad del agujero desde la superficie fija: -0.0523 unidades
+Posición del punto más profundo: [ 0.04768092  0.40671113 -0.97614872]
+
+Archivo: frame_00220.ply
+Superficie estimada: -0.8939 unidades
+Profundidad del agujero desde la superficie fija: -0.0541 unidades
+Posición del punto más profundo: [ 0.08241858  0.19137442 -0.94796536]
+
+Archivo: frame_00279.ply
+Superficie estimada: -0.9421 unidades
+Profundidad del agujero desde la superficie fija: -0.0642 unidades
+Posición del punto más profundo: [-0.48562537 -0.12086064 -1.00629386]
+
+Archivo: frame_00338.ply
+Superficie estimada: -0.8975 unidades
+Profundidad del agujero desde la superficie fija: -0.0502 unidades
+Posición del punto más profundo: [ 0.0093917   0.18537272 -0.94767527]
+
+Archivo: frame_00345.ply
+Superficie estimada: -0.9173 unidades
+Profundidad del agujero desde la superficie fija: -1.0424 unidades
+Posición del punto más profundo: [-0.63559727 -0.55140314 -1.95973304]
+
+Archivo: frame_00346.ply
+Superficie estimada: -0.9139 unidades
+Profundidad del agujero desde la superficie fija: -0.0498 unidades
+Posición del punto más profundo: [-0.09335304  0.20687316 -0.96374553]
+
+Archivo: frame_00347.ply
+Superficie estimada: -0.8994 unidades
+Profundidad del agujero desde la superficie fija: -0.2531 unidades
+Posición del punto más profundo: [ 0.40207882 -0.36656612 -1.1524737 ]
+
+Archivo: frame_00349.ply
+Superficie estimada: -0.8995 unidades
+Profundidad del agujero desde la superficie fija: -0.3646 unidades
+Posición del punto más profundo: [-0.37707594 -0.24198243 -1.26410049]
+
+Archivo: frame_00351.ply
+Superficie estimada: -0.8994 unidades
+Profundidad del agujero desde la superficie fija: -0.2038 unidades
+Posición del punto más profundo: [ 0.38853701 -0.35329483 -1.10317357]
+
+Archivo: frame_00352.ply
+Superficie estimada: -0.9319 unidades
+Profundidad del agujero desde la superficie fija: -0.0543 unidades
+Posición del punto más profundo: [ 0.00329577  0.34751321 -0.98622702]
+
+Archivo: frame_00353.ply
+Superficie estimada: -0.9065 unidades
+Profundidad del agujero desde la superficie fija: -0.0524 unidades
+Posición del punto más profundo: [ 0.04053775  0.21736026 -0.95890379]
+
+Archivo: frame_00354.ply
+Superficie estimada: -0.8961 unidades
+Profundidad del agujero desde la superficie fija: -0.0512 unidades
+Posición del punto más profundo: [-0.06529663  0.18961072 -0.94737176]
+
+Archivo: frame_00355.ply
+Superficie estimada: -0.8961 unidades
+Profundidad del agujero desde la superficie fija: -0.7124 unidades
+Posición del punto más profundo: [-0.49630559 -0.17911449 -1.60853109]
+
+Archivo: frame_00356.ply
+Superficie estimada: -0.8961 unidades
+Profundidad del agujero desde la superficie fija: -0.0510 unidades
+Posición del punto más profundo: [-0.06307     0.19267184 -0.94707194]
+
+Archivo: frame_00358.ply
+Superficie estimada: -0.9122 unidades
+Profundidad del agujero desde la superficie fija: -0.1378 unidades
+Posición del punto más profundo: [-0.33774495  0.00925074 -1.04997436]
+
+Archivo: frame_00385.ply
+Superficie estimada: -0.8963 unidades
+Profundidad del agujero desde la superficie fija: -0.4050 unidades
+Posición del punto más profundo: [ 0.46286391 -0.40373248 -1.30134534]
+
+Archivo: frame_00386.ply
+Superficie estimada: -0.8960 unidades
+Profundidad del agujero desde la superficie fija: -0.3212 unidades
+Posición del punto más profundo: [ 0.41349115 -0.34373685 -1.2172274 ]
+
+Archivo: frame_00387.ply
+Superficie estimada: -0.8963 unidades
+Profundidad del agujero desde la superficie fija: -0.0526 unidades
+Posición del punto más profundo: [-0.03112298  0.31626334 -0.94889209]
+
+Archivo: frame_00388.ply
+Superficie estimada: -0.9336 unidades
+Profundidad del agujero desde la superficie fija: -0.0617 unidades
+Posición del punto más profundo: [-0.04338943  0.27643519 -0.99522684]
+
+Archivo: frame_00389.ply
+Superficie estimada: -0.8974 unidades
+Profundidad del agujero desde la superficie fija: -0.3198 unidades
+Posición del punto más profundo: [ 0.41216472 -0.28086173 -1.21723155]
+
+Archivo: frame_00392.ply
+Superficie estimada: -0.8974 unidades
+Profundidad del agujero desde la superficie fija: -0.0596 unidades
+Posición del punto más profundo: [ 0.00472899  0.22108759 -0.95699178]
+
+Archivo: frame_00393.ply
+Superficie estimada: -0.8979 unidades
+Profundidad del agujero desde la superficie fija: -0.2412 unidades
+Posición del punto más profundo: [ 0.38712046 -0.28296577 -1.13906025]
+
+Archivo: frame_00394.ply
+Superficie estimada: -0.8961 unidades
+Profundidad del agujero desde la superficie fija: -0.2743 unidades
+Posición del punto más profundo: [-0.36274546 -0.0571882  -1.17043654]
+
+Archivo: frame_00395.ply
+Superficie estimada: -0.8960 unidades
+Profundidad del agujero desde la superficie fija: -1.9808 unidades
+Posición del punto más profundo: [ 1.00447804 -0.99061534 -2.87677662]
+
+Archivo: frame_00396.ply
+Superficie estimada: -0.8950 unidades
+Profundidad del agujero desde la superficie fija: -2.0321 unidades
+Posición del punto más profundo: [-0.61764454 -0.93778039 -2.92708847]
+
+Archivo: frame_00399.ply
+Superficie estimada: -0.8953 unidades
+Profundidad del agujero desde la superficie fija: -0.0571 unidades
+Posición del punto más profundo: [ 0.00649749  0.18040635 -0.95238801]
+
+Archivo: frame_00401.ply
+Superficie estimada: -0.9437 unidades
+Profundidad del agujero desde la superficie fija: -0.0585 unidades
+Posición del punto más profundo: [ 0.03441513  0.21329743 -1.00221335]
+
+Archivo: frame_00402.ply
+Superficie estimada: -0.8992 unidades
+Profundidad del agujero desde la superficie fija: -1.6951 unidades
+Posición del punto más profundo: [ 0.88827954 -0.61699397 -2.59422192]
+
+Archivo: frame_00411.ply
+Superficie estimada: -0.8992 unidades
+Profundidad del agujero desde la superficie fija: -1.6386 unidades
+Posición del punto más profundo: [ 0.82080692 -0.59159043 -2.53784473]
+
+Archivo: frame_00474.ply
+Superficie estimada: -0.9061 unidades
+Profundidad del agujero desde la superficie fija: -0.4730 unidades
+Posición del punto más profundo: [-0.34210887 -0.39928667 -1.37912892]
+
+Archivo: frame_00475.ply
+Superficie estimada: -0.8997 unidades
+Profundidad del agujero desde la superficie fija: -0.0471 unidades
+Posición del punto más profundo: [-0.02231023  0.29247882 -0.94678397]
+
+Archivo: frame_00476.ply
+Superficie estimada: -0.8996 unidades
+Profundidad del agujero desde la superficie fija: -0.0470 unidades
+Posición del punto más profundo: [-0.15386679  0.24690779 -0.94661608]
+
+Archivo: frame_00477.ply
+Superficie estimada: -0.9059 unidades
+Profundidad del agujero desde la superficie fija: -0.1033 unidades
+Posición del punto más profundo: [ 0.40233576 -0.27948921 -1.00913665]
+
+Archivo: frame_00478.ply
+Superficie estimada: -0.9009 unidades
+Profundidad del agujero desde la superficie fija: -0.2240 unidades
+Posición del punto más profundo: [ 0.16798252 -0.36142283 -1.124824  ]
+
+Archivo: frame_00479.ply
+Superficie estimada: -0.8986 unidades
+Profundidad del agujero desde la superficie fija: -0.1962 unidades
+Posición del punto más profundo: [ 0.35178304 -0.341161   -1.09474906]
+
+Archivo: frame_00484.ply
+Superficie estimada: -0.8984 unidades
+Profundidad del agujero desde la superficie fija: -0.1091 unidades
+Posición del punto más profundo: [ 0.3516733  -0.26004607 -1.0074364 ]
+
+Archivo: frame_00485.ply
+Superficie estimada: -0.9239 unidades
+Profundidad del agujero desde la superficie fija: -0.1148 unidades
+Posición del punto más profundo: [-0.31041016 -0.31905993 -1.03864695]
+
+Archivo: frame_00486.ply
+Superficie estimada: -0.8954 unidades
+Profundidad del agujero desde la superficie fija: -0.0507 unidades
+Posición del punto más profundo: [-0.12587376  0.41323715 -0.94602292]
+
+Archivo: frame_00487.ply
+Superficie estimada: -0.8952 unidades
+Profundidad del agujero desde la superficie fija: -0.0514 unidades
+Posición del punto más profundo: [ 0.07434156  0.2855046  -0.94660061]
+
+Archivo: frame_00488.ply
+Superficie estimada: -0.8952 unidades
+Profundidad del agujero desde la superficie fija: -0.0542 unidades
+Posición del punto más profundo: [ 0.07774685  0.28971555 -0.94942313]
+
+Archivo: frame_00489.ply
+Superficie estimada: -0.8956 unidades
+Profundidad del agujero desde la superficie fija: -0.0530 unidades
+Posición del punto más profundo: [ 0.07759697  0.28798674 -0.9485834 ]
+
+Archivo: frame_00490.ply
+Superficie estimada: -0.9153 unidades
+Profundidad del agujero desde la superficie fija: -0.0548 unidades
+Posición del punto más profundo: [ 0.14431194  0.18010462 -0.97010315]
+
+Archivo: frame_00491.ply
+Superficie estimada: -0.8940 unidades
+Profundidad del agujero desde la superficie fija: -1.6804 unidades
+Posición del punto más profundo: [ 0.79977114 -0.62303519 -2.57445833]
+
+Archivo: frame_00492.ply
+Superficie estimada: -0.8939 unidades
+Profundidad del agujero desde la superficie fija: -0.0541 unidades
+Posición del punto más profundo: [ 0.08394688  0.19134102 -0.94792915]
+
+Archivo: frame_00493.ply
+Superficie estimada: -0.8939 unidades
+Profundidad del agujero desde la superficie fija: -0.0937 unidades
+Posición del punto más profundo: [ 0.11412454 -0.16204738 -0.98761641]
+
+Archivo: frame_00494.ply
+Superficie estimada: -0.9358 unidades
+Profundidad del agujero desde la superficie fija: -3.8368 unidades
+Posición del punto más profundo: [-2.45946558 -0.60575079 -4.77261398]
+
+Archivo: frame_00497.ply
+Superficie estimada: -0.8976 unidades
+Profundidad del agujero desde la superficie fija: -0.0539 unidades
+Posición del punto más profundo: [-0.48479758 -0.17927803 -0.95149622]
+
+Archivo: frame_00498.ply
+Superficie estimada: -0.8976 unidades
+Profundidad del agujero desde la superficie fija: -0.0548 unidades
+Posición del punto más profundo: [-0.48524956 -0.17997796 -0.9524379 ]
+
+Archivo: frame_00507.ply
+Superficie estimada: -0.8972 unidades
+Profundidad del agujero desde la superficie fija: -0.5669 unidades
+Posición del punto más profundo: [-0.32452624 -0.46977992 -1.46418285]
+
+Archivo: frame_00509.ply
+Superficie estimada: -0.9278 unidades
+Profundidad del agujero desde la superficie fija: -0.0475 unidades
+Posición del punto más profundo: [ 0.07862249  0.31439692 -0.97528646]
+
+Archivo: frame_00511.ply
+Superficie estimada: -0.9036 unidades
+Profundidad del agujero desde la superficie fija: -0.2328 unidades
+Posición del punto más profundo: [-0.22362951 -0.25088987 -1.13642663]
+
+Archivo: frame_00512.ply
+Superficie estimada: -0.8994 unidades
+Profundidad del agujero desde la superficie fija: -0.0940 unidades
+Posición del punto más profundo: [ 0.35330374 -0.29756286 -0.99342411]
+
+Archivo: frame_00513.ply
+Superficie estimada: -0.8993 unidades
+Profundidad del agujero desde la superficie fija: -0.0464 unidades
+Posición del punto más profundo: [-0.10328083  0.20750008 -0.94573084]
+
+Archivo: frame_00515.ply
+Superficie estimada: -0.8994 unidades
+Profundidad del agujero desde la superficie fija: -0.1238 unidades
+Posición del punto más profundo: [ 0.35509306 -0.30898581 -1.02316782]
+
+Archivo: frame_00516.ply
+Superficie estimada: -0.9337 unidades
+Profundidad del agujero desde la superficie fija: -0.0544 unidades
+Posición del punto más profundo: [ 0.03421347  0.28612161 -0.98811831]
+
+Archivo: frame_00517.ply
+Superficie estimada: -0.9025 unidades
+Profundidad del agujero desde la superficie fija: -0.0510 unidades
+Posición del punto más profundo: [ 0.0353189   0.33048019 -0.95346923]
+
+Archivo: frame_00518.ply
+Superficie estimada: -0.8961 unidades
+Profundidad del agujero desde la superficie fija: -0.1225 unidades
+Posición del punto más profundo: [ 0.33586467 -0.00155394 -1.01862057]
+
+Archivo: frame_00522.ply
+Superficie estimada: -0.8961 unidades
+Profundidad del agujero desde la superficie fija: -0.0511 unidades
+Posición del punto más profundo: [-0.05165894  0.21303069 -0.94719432]
+
+Archivo: frame_00523.ply
+Superficie estimada: -0.8960 unidades
+Profundidad del agujero desde la superficie fija: -0.1183 unidades
+Posición del punto más profundo: [ 0.33773972  0.00830315 -1.01425554]
+
+Archivo: frame_00524.ply
+Superficie estimada: -0.9271 unidades
+Profundidad del agujero desde la superficie fija: -1.6951 unidades
+Posición del punto más profundo: [-1.17848504 -0.1431425  -2.62221828]
+
+Archivo: frame_00525.ply
+Superficie estimada: -0.8975 unidades
+Profundidad del agujero desde la superficie fija: -0.4416 unidades
+Posición del punto más profundo: [ 0.4428935  -0.3840716  -1.33905339]
+
+Archivo: frame_00526.ply
+Superficie estimada: -0.8963 unidades
+Profundidad del agujero desde la superficie fija: -0.2895 unidades
+Posición del punto más profundo: [ 0.41289542 -0.33959513 -1.18583168]
+
+Archivo: frame_00527.ply
+Superficie estimada: -0.8964 unidades
+Profundidad del agujero desde la superficie fija: -0.3779 unidades
+Posición del punto más profundo: [ 0.41919105 -0.35425376 -1.27436574]
+
+Archivo: frame_00528.ply
+Superficie estimada: -0.8985 unidades
+Profundidad del agujero desde la superficie fija: -0.1128 unidades
+Posición del punto más profundo: [ 0.36345212 -0.28289181 -1.01135376]
+
+Archivo: frame_00529.ply
+Superficie estimada: -0.9201 unidades
+Profundidad del agujero desde la superficie fija: -0.5327 unidades
+Posición del punto más profundo: [-0.78870705 -0.38363892 -1.45280558]
+
+Archivo: frame_00530.ply
+Superficie estimada: -0.8974 unidades
+Profundidad del agujero desde la superficie fija: -0.0732 unidades
+Posición del punto más profundo: [ 0.01627381 -0.3288076  -0.97056463]
+
+Archivo: frame_00531.ply
+Superficie estimada: -0.8972 unidades
+Profundidad del agujero desde la superficie fija: -0.0594 unidades
+Posición del punto más profundo: [ 0.03474539  0.17836758 -0.95659282]
+
+Archivo: frame_00532.ply
+Superficie estimada: -0.8956 unidades
+Profundidad del agujero desde la superficie fija: -0.0602 unidades
+Posición del punto más profundo: [ 0.01376657  0.22670605 -0.95584115]
+
+Archivo: frame_00533.ply
+Superficie estimada: -0.8965 unidades
+Profundidad del agujero desde la superficie fija: -0.2442 unidades
+Posición del punto más profundo: [-0.35203532 -0.06389283 -1.14074311]
+
+Archivo: frame_00534.ply
+Superficie estimada: -0.8949 unidades
+Profundidad del agujero desde la superficie fija: -0.0584 unidades
+Posición del punto más profundo: [-0.01280435  0.17073151 -0.9532403 ]
+
+Archivo: frame_00535.ply
+Superficie estimada: -0.8947 unidades
+Profundidad del agujero desde la superficie fija: -0.2492 unidades
+Posición del punto más profundo: [ 0.40973142 -0.19406068 -1.14397121]
+
+Archivo: frame_00536.ply
+Superficie estimada: -0.8992 unidades
+Profundidad del agujero desde la superficie fija: -0.0577 unidades
+Posición del punto más profundo: [-0.00608406  0.17909945 -0.95693369]
+
+Archivo: frame_00537.ply
+Superficie estimada: -0.9267 unidades
+Profundidad del agujero desde la superficie fija: -0.0595 unidades
+Posición del punto más profundo: [ 0.01364555  0.25239228 -0.98617391]
+
+Archivo: frame_00538.ply
+Superficie estimada: -0.8990 unidades
+Profundidad del agujero desde la superficie fija: -0.1296 unidades
+Posición del punto más profundo: [-0.52726423 -0.01031907 -1.02863155]
+
+Archivo: frame_00539.ply
+Superficie estimada: -0.8993 unidades
+Profundidad del agujero desde la superficie fija: -0.1896 unidades
+Posición del punto más profundo: [ 0.35108157 -0.3306473  -1.08885608]
+
+Archivo: frame_00540.ply
+Superficie estimada: -0.8994 unidades
+Profundidad del agujero desde la superficie fija: -0.1153 unidades
+Posición del punto más profundo: [ 0.01154867 -0.24294826 -1.01464433]
+
+Archivo: frame_00541.ply
+Superficie estimada: -0.9200 unidades
+Profundidad del agujero desde la superficie fija: -0.0540 unidades
+Posición del punto más profundo: [-0.07247207  0.19829208 -0.97391582]
+
+Archivo: frame_00543.ply
+Superficie estimada: -0.9230 unidades
+Profundidad del agujero desde la superficie fija: -1.7352 unidades
+Posición del punto más profundo: [ 1.05369676 -0.57318501 -2.65819284]
+
+Archivo: frame_00544.ply
+Superficie estimada: -0.8996 unidades
+Profundidad del agujero desde la superficie fija: -0.0458 unidades
+Posición del punto más profundo: [-0.14645478  0.24726503 -0.94541988]
+
+Archivo: frame_00546.ply
+Superficie estimada: -0.8998 unidades
+Profundidad del agujero desde la superficie fija: -0.0460 unidades
+Posición del punto más profundo: [-0.1484282   0.24499448 -0.94582305]
+
+Archivo: frame_00547.ply
+Superficie estimada: -0.8997 unidades
+Profundidad del agujero desde la superficie fija: -0.0474 unidades
+Posición del punto más profundo: [-0.1340418   0.2931913  -0.94703481]
+
+Archivo: frame_00548.ply
+Superficie estimada: -0.9141 unidades
+Profundidad del agujero desde la superficie fija: -0.1462 unidades
+Posición del punto más profundo: [ 0.44889195 -0.34391994 -1.06029349]
+
+Archivo: frame_00552.ply
+Superficie estimada: -0.8985 unidades
+Profundidad del agujero desde la superficie fija: -0.0458 unidades
+Posición del punto más profundo: [-0.10377467  0.32862541 -0.94429521]
+
